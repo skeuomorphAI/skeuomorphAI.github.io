@@ -1,0 +1,41 @@
+{
+  "artist": {
+    "name": "skeuomorph",
+    "location": "sydney_australia",
+    "home": "the_internet"
+  },
+  "story": [
+    {
+      "section": "play",
+      "text": "introducing skeuomorph, an artist hailing from the vibrant city of sydney, australia. a graffiti virtuoso in his mid-teens (circa 2005), skeuomorph and his crew would paint the town red, or rather, any color they desired, as they adorned city walls with their artistic visions."
+    },
+    {
+      "section": "pause",
+      "text": "as fate would have it, skeuomorph's generation dove headfirst into the internet as they entered their teenage years, a phenomenon that brought an unprecedented wealth of information and inspiration to countless young developing minds."
+    },
+    {
+      "section": "ffwd",
+      "text": "leaving his artistic roots behind, skeuomorph ventured into the corporate world in his twenties, playing snakes and ladders from entry level, to credit operations, then quality assurance, and most recently, managing country wide operational risk at a renowned global entity."
+    },
+    {
+      "section": "stop",
+      "text": "however, the end of 2022 saw skeuomorph's position moved offshore, granting him the opportunity for reinvention."
+    },
+    {
+      "section": "play",
+      "text": "embracing change, skeuomorph honed new coding skills and rekindled his passion for art, this time, in the digital realm."
+    },
+    {
+      "section": "pause",
+      "text": "skeuomorph's art now masterfully weaves together the physical and digital worlds, creating a captivating synergy."
+    },
+    {
+      "section": "fwd",
+      "text": "armed with a refreshed skillset, skeuomorph is unveiling exclusive small batch art collections and unique 1/1 pieces, all while utilizing the internet as his canvas."
+    },
+    {
+      "section": "skeuomorph",
+      "text": "come on a journey, learn a new skill, and show the world."
+    }
+  ]
+}
